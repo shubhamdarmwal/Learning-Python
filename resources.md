@@ -2,6 +2,7 @@
 
 Welcome! This file contains some of the best hand-picked resources I’ve used or found useful while learning Python. Feel free to explore them and continue your learning journey. 🚀
 
+💡 Tip: To open any link in a new tab, press Ctrl + Click (Windows/Linux) or Cmd + Click (Mac).
 ---
 
 ## 📘 Beginner-Friendly Tutorials
